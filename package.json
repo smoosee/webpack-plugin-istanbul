@@ -1,16 +1,18 @@
 {
   "name": "webpack-plugin-istanbul",
   "version": "1.0.2",
-  "description": "Storybook Extras coverage addon.",
+  "description": "Minimal Webpack5 plugin for instrumenting code coverage using istanbul",
   "repository": "sheriffMoose/webpack-plugin-istanbul",
   "homepage": "https://github.com/sheriffMoose/webpack-plugin-istanbul#readme",
   "funding": "https://github.com/sheriffMoose/webpack-plugin-istanbul?sponsor=1",
   "license": "MIT",
   "keywords": [
-    "storybook",
-    "addons",
-    "extras",
-    "coverage"
+    "webpack",
+    "webpack5",
+    "plugin",
+    "istanbul",
+    "coverage",
+    "instrumentation"
   ],
   "author": {
     "name": "Mostafa Sherif",
