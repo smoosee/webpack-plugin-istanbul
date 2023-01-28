@@ -1,3 +1,15 @@
+# v1.0.3 (Sat Jan 28 2023)
+
+#### ⚠️ Pushed to `master`
+
+- docs: fix package.json description & keywords ([@sheriffMoose](https://github.com/sheriffMoose))
+
+#### Authors: 1
+
+- Mostafa Sherif ([@sheriffMoose](https://github.com/sheriffMoose))
+
+---
+
 # v1.0.2 (Sat Jan 28 2023)
 
 #### ⚠️ Pushed to `master`
