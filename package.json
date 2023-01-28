@@ -1,6 +1,6 @@
 {
   "name": "webpack-plugin-istanbul",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Storybook Extras coverage addon.",
   "repository": "sheriffMoose/webpack-plugin-istanbul",
   "homepage": "https://github.com/sheriffMoose/webpack-plugin-istanbul#readme",
