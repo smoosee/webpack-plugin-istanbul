@@ -1,6 +1,6 @@
 {
   "name": "webpack-plugin-istanbul",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Minimal Webpack5 plugin for instrumenting code coverage using istanbul",
   "repository": "sheriffMoose/webpack-plugin-istanbul",
   "homepage": "https://github.com/sheriffMoose/webpack-plugin-istanbul#readme",
